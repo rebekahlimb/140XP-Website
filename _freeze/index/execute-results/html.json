@@ -1,0 +1,15 @@
+{
+  "hash": "b3b0f507ac76382a7c03d707a36a877e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Rebekah Limb\"\nabout: \n  template: trestles\n  links: \n    - icon: linkedin\n      text: LinkedIn\n      url: https://www.linkedin.com/rebekahlimb\n    - icon: github\n      text: Github\n      url: https://github.com/rebekahlimb\n    - icon: mail\n      text: Email\n      url: \"mailto:rebekah.limb@gmail.com\"\n      \nimage: \"IMG_5469 copy 2.JPG\"\n---\n\n\nHi my name is Rebekah Limb and I am currently a senior at UCLA studying with. \n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

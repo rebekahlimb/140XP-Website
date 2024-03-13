@@ -1,14 +1,57 @@
 ---
 title: "Rebekah Limb"
+about: 
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/rebekahlimb/
+    - icon: github
+      text: Github
+      url: https://github.com/rebekahlimb
+    - icon: mail
+      text: Email
+      url: "mailto:rebekah.limb@gmail.com"
+      
+image: "IMG_5469 copy 2.JPG"
+toc: false
 ---
 
-This is a Quarto website.
+## Hi there!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+My name is Rebekah Limb and I am a 22 year old aspiring researcher in the intersection of statistics and cognitive modeling. I am a Regent Scholar senior at UCLA graduating with a B.S. in Statistics and Data Science and a B.S. in Cognitive Science. I have worked in the Visual Intelligence Lab at UCLA led by Professor Tao Gao. 
 
+At UCLA, I have had the amazing opportunity to join and help lead organizations such as DataRes, the university's largest data science organization. I also have been able to explore my creative side with graphic design as part Daily Bruin's Data & Graphics team. 
+
+Outside of academics I love playing volleyball, taking strolls at the beach, or going to see my favorite artists in concert. 
+
+To learn more in depth about my experience, please see  [Resume]("/Resume/RebekahLimb_March24.pdf") or continue reading below for a brief summary:
+
+
+## Work Experience
+
+Breakthrough Research | Research Innovation Intern | Oct 2023 - Present
+
+Visual Intelligence Lab | Research Assistant | March 2022 - Jan 2024
+
+Samudra Pacific Capital Partners | Associate | Sept 2021 - Sept 2023
+
+Madhappy | Business Analyst Intern | Jun 2022 - Aug 2022
+
+
+## Education 
+
+University of California, Los Angeles (UCLA) | Sept 2020 - Present
+
+Expected Graduation: June 2024
+
+B.S. Statistics and Data Science, B.S. Cognitive Science
+
+## Extracurriculars & Leadership
+
+UCLA DataResolutions | Membership Team Head | March 2023 - March 2024
+
+The UCLA Daily Bruin | Data & Graphics Section Editor | March 2021 - March 2022
 
 
